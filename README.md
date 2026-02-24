@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nkswalih/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nkswalih/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nkswalih/leetcode/tree/master/0217-contains-duplicate) |
+| [2974-minimum-number-game](https://github.com/nkswalih/leetcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nkswalih/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nkswalih/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nkswalih/leetcode/tree/master/0217-contains-duplicate) |
+| [2974-minimum-number-game](https://github.com/nkswalih/leetcode/tree/master/2974-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nkswalih/leetcode/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/nkswalih/leetcode/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nkswalih/leetcode/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/nkswalih/leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
