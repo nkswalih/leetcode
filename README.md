@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nkswalih/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/nkswalih/leetcode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nkswalih/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/nkswalih/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3099-harshad-number](https://github.com/nkswalih/leetcode/tree/master/3099-harshad-number) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nkswalih/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/nkswalih/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/nkswalih/leetcode/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/nkswalih/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/nkswalih/leetcode/tree/master/2974-minimum-number-game) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/nkswalih/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
