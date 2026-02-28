@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nkswalih/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nkswalih/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nkswalih/leetcode/tree/master/0217-contains-duplicate) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/nkswalih/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2974-minimum-number-game](https://github.com/nkswalih/leetcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nkswalih/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nkswalih/leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/nkswalih/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/nkswalih/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
