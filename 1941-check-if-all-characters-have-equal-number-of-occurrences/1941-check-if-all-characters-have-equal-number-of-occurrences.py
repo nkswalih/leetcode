@@ -8,10 +8,4 @@ class Solution(object):
             else:
                 freq[ch] = 1
             
-        values = list(freq.values())
-        first = values[0]
-
-        for v in values:
-            if v != first:
-                return False
-        return True
+        return len(set(freq.values())) == 1
