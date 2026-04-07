@@ -170,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nkswalih/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/nkswalih/leetcode/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
