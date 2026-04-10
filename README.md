@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nkswalih/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nkswalih/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nkswalih/leetcode/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/nkswalih/leetcode/tree/master/0724-find-pivot-index) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nkswalih/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nkswalih/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/nkswalih/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/nkswalih/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/nkswalih/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Counting Sort
 |  |
