@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/nkswalih/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/nkswalih/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/nkswalih/leetcode/tree/master/3024-type-of-triangle) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nkswalih/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nkswalih/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nkswalih/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nkswalih/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nkswalih/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
