@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nkswalih/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nkswalih/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nkswalih/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/nkswalih/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nkswalih/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/nkswalih/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/nkswalih/leetcode/tree/master/2974-minimum-number-game) |
@@ -116,11 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nkswalih/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nkswalih/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nkswalih/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/nkswalih/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2942-find-words-containing-character](https://github.com/nkswalih/leetcode/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nkswalih/leetcode/tree/master/0014-longest-common-prefix) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/nkswalih/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Dynamic Programming
 |  |
 | ------- |
