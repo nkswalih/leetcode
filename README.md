@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/nkswalih/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nkswalih/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nkswalih/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2615-sum-of-distances](https://github.com/nkswalih/leetcode/tree/master/2615-sum-of-distances) |
 | [2942-find-words-containing-character](https://github.com/nkswalih/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/nkswalih/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/nkswalih/leetcode/tree/master/3024-type-of-triangle) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nkswalih/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nkswalih/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nkswalih/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2615-sum-of-distances](https://github.com/nkswalih/leetcode/tree/master/2615-sum-of-distances) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nkswalih/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nkswalih/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/nkswalih/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/nkswalih/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2615-sum-of-distances](https://github.com/nkswalih/leetcode/tree/master/2615-sum-of-distances) |
 ## Counting Sort
 |  |
 | ------- |
