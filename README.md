@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/nkswalih/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/nkswalih/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/nkswalih/leetcode/tree/master/3024-type-of-triangle) |
+| [3225-maximum-score-from-grid-operations](https://github.com/nkswalih/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nkswalih/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nkswalih/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nkswalih/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nkswalih/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nkswalih/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3225-maximum-score-from-grid-operations](https://github.com/nkswalih/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Memoization
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nkswalih/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/nkswalih/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2615-sum-of-distances](https://github.com/nkswalih/leetcode/tree/master/2615-sum-of-distances) |
+| [3225-maximum-score-from-grid-operations](https://github.com/nkswalih/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Counting Sort
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nkswalih/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nkswalih/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/nkswalih/leetcode/tree/master/1672-richest-customer-wealth) |
+| [3225-maximum-score-from-grid-operations](https://github.com/nkswalih/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Geometry
 |  |
 | ------- |
