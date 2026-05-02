@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nkswalih/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nkswalih/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nkswalih/leetcode/tree/master/0217-contains-duplicate) |
+| [0396-rotate-function](https://github.com/nkswalih/leetcode/tree/master/0396-rotate-function) |
 | [0724-find-pivot-index](https://github.com/nkswalih/leetcode/tree/master/0724-find-pivot-index) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nkswalih/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nkswalih/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nkswalih/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nkswalih/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/nkswalih/leetcode/tree/master/0258-add-digits) |
+| [0396-rotate-function](https://github.com/nkswalih/leetcode/tree/master/0396-rotate-function) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nkswalih/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/nkswalih/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/nkswalih/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nkswalih/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nkswalih/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/nkswalih/leetcode/tree/master/0396-rotate-function) |
 | [3225-maximum-score-from-grid-operations](https://github.com/nkswalih/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Memoization
 |  |
