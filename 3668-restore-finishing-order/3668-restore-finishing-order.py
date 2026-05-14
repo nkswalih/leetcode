@@ -1,8 +1,8 @@
 class Solution(object):
     def recoverOrder(self, order, friends):
+        friends_set = set(friends)
         res = []
         for num in order:
-            for friend in friends:
-                if num == friend:
-                    res.append(num)
+            if num in friends:
+                res.append(num)
         return res
