@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/nkswalih/leetcode/tree/master/3024-type-of-triangle) |
 | [3225-maximum-score-from-grid-operations](https://github.com/nkswalih/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nkswalih/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3668-restore-finishing-order](https://github.com/nkswalih/leetcode/tree/master/3668-restore-finishing-order) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nkswalih/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nkswalih/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nkswalih/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nkswalih/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2615-sum-of-distances](https://github.com/nkswalih/leetcode/tree/master/2615-sum-of-distances) |
+| [3668-restore-finishing-order](https://github.com/nkswalih/leetcode/tree/master/3668-restore-finishing-order) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nkswalih/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nkswalih/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
