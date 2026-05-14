@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/nkswalih/leetcode/tree/master/3024-type-of-triangle) |
 | [3225-maximum-score-from-grid-operations](https://github.com/nkswalih/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nkswalih/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nkswalih/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/nkswalih/leetcode/tree/master/3668-restore-finishing-order) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nkswalih/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nkswalih/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/nkswalih/leetcode/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/nkswalih/leetcode/tree/master/3099-harshad-number) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nkswalih/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nkswalih/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
