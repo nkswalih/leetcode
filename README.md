@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/nkswalih/leetcode/tree/master/0396-rotate-function) |
 | [0724-find-pivot-index](https://github.com/nkswalih/leetcode/tree/master/0724-find-pivot-index) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nkswalih/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nkswalih/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1340-jump-game-v](https://github.com/nkswalih/leetcode/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nkswalih/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nkswalih/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/nkswalih/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/nkswalih/leetcode/tree/master/0788-rotated-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nkswalih/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nkswalih/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/nkswalih/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nkswalih/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/nkswalih/leetcode/tree/master/1903-largest-odd-number-in-string) |
