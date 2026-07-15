@@ -3,7 +3,6 @@
  * @return {number}
  */
 var argumentsLength = function(...args) {
-    let str = args
     let count = 0
     for (let i = 0;i<=args.length;i++){
         count=i
